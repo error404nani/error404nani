@@ -11,9 +11,6 @@
 ## 👨‍💻 About Me
 I am a dedicated Mern Stack Developer with a passion for creating seamless, high-performance web applications. I love bridging the gap between elegant design and complex functionality. Beyond coding, I am an active content creator, sharing my journey and knowledge across platforms:
 
-* 🎥 **YouTube:** [Your Channel Link]
-* ✍️ **Medium:** [Your Profile Link]
-* 📸 **Instagram:** [Your Profile Link]
 
 ### ⚡ Fun Facts
 * 🚀 I thrive on building projects that solve real-world problems.
