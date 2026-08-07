@@ -4,7 +4,7 @@
 
 # Hi, I'm Kasukurthi Sujay 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Full-Stack+Web+Developer;B.Tech+CSE+Student;Building+Real-World+Web+Apps)]
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Full-Stack+Web+Developer;B.Tech+CSE+Student;Building+Real-World+Web+Apps)
 
 <img src="https://komarev.com/ghpvc/?username=error404nani&label=Profile%20Views&color=36BCF7&style=flat" alt="Profile views" />
 
