@@ -85,13 +85,11 @@ Always shipping something new — check my pinned repos for the latest.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=error404nani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<div align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=error404nani&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=error404nani&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=error404nani&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=error404nani&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
-
 ---
 
 ### 🏆 Certifications
