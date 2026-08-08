@@ -16,7 +16,7 @@
 
 I'm a B.Tech Computer Science student at GMR Institute of Technology, passionate about building full-stack web applications with the MERN stack. I enjoy turning ideas into working products — from leave-management systems to healthcare platforms — and I'm always learning new tools to build better, faster, and cleaner.
 
-- 🎓 B.Tech CSE, GMR Institute of Technology, Rajam (2023 – Present) — CGPA 8.2
+- 🎓 B.Tech CSE, GMR Institute of Technology, Rajam (2023 – Present) — CGPA 8.2 
 - 💼 Completed a Web Development Internship (HTML, CSS, JavaScript, Django) — Certified by L&T Software Technologies
 - 🌱 Currently deepening my MERN stack and frontend skills
 - 📍 Based in Prakasham District, Andhra Pradesh, India
